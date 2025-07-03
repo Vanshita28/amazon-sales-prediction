@@ -28,8 +28,11 @@ This Power BI dashboard provides a comprehensive analysis of Amazon sales data, 
   Customer segmentation, return rates, and order behavior analysis.
 
 ## 📷 Screenshots
+![Screenshot 2025-07-03 231655](https://github.com/user-attachments/assets/6cc790f6-f17b-49c6-9958-a9ee6559b4c8)
+![Screenshot 2025-07-03 231715](https://github.com/user-attachments/assets/61a7dbc8-6473-4a20-b4b0-4aa64ed90dc0)
+![Screenshot 2025-07-03 231728](https://github.com/user-attachments/assets/8e2d478a-12de-45a5-90fc-1707e7c68413)
+![Screenshot 2025-07-03 231735](https://github.com/user-attachments/assets/fb8f6e23-8381-40e3-b76f-200ab7ca965e)
 
-*(Add screenshots of your dashboard visuals here for better understanding)*
 
 ## 🚀 Getting Started
 
